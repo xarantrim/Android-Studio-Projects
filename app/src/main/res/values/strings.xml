@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProjectGame</string>
+
+    <array name="mainmenu_itemlist">
+        <item>New Game</item>
+        <item>High Score</item>
+        <item>Options</item>
+        <item>Exit</item>
+    </array>
+</resources>
